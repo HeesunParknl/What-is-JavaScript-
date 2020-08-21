@@ -1,1 +1,2 @@
-# What-is-JavaScript-
+# What-is-JavaScript?
+:technical document page
